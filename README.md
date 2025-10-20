@@ -83,3 +83,8 @@ The system provides a comprehensive reporting module:
 
 1.  **Login:** Patients can log in to a dedicated web portal using their credentials. The system uses OTP (One-Time Password) verification for security.
 2.  **View Reports:** Once logged in, patients can view and download their test reports.
+
+
+<img width="871" height="189" alt="Screenshot 2025-10-20 at 10 07 32 AM" src="https://github.com/user-attachments/assets/c90eaeda-8b89-4cc2-ac93-01eb0f9c967d" />
+
+
